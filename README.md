@@ -82,10 +82,6 @@ Também tenho experiência com **HTML**, **CSS**, **JavaScript**, **Git**, **Git
 ## Formação & Certificados
 
 <p align="center">
-  <img src="./certificados/alura-summary.svg" alt="Resumo de certificados Alura" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Alura-103h%20concluídas-111111?style=for-the-badge&labelColor=0D1117&color=8B1E3F" alt="Alura 103h concluídas" />
   <img src="https://img.shields.io/badge/Java%20OO-36h-111111?style=for-the-badge&labelColor=0D1117&color=8B1E3F" alt="Java OO 36h" />
   <img src="https://img.shields.io/badge/Programação-45h-111111?style=for-the-badge&labelColor=0D1117&color=8B1E3F" alt="Programação 45h" />
